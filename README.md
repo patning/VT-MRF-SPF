@@ -2,9 +2,9 @@
 
 This repository contains the Python implementation of the **VT-MRF-SPF** algorithm, as proposed in the paper [*VT-MRF-SPF: Variable Target Markov Random Field Scalable Particle Filter*](https://arxiv.org/abs/2404.18857) by N. Ning. 
 
-The VT-MRF-SPF algorithm is an extension of the **VT-MRF-PF** algorithm for scalable spatiotemporal filtering in high-dimensional data. The **VT-MRF-PF** algorithm was originally proposed by Zia Khan, Tucker Balch, and Frank Dellaert in [MCMC-based Particle Filtering for Tracking a Variable Number of Interacting Targets](https://ieeexplore.ieee.org/abstract/document/1512059), *IEEE Transactions on Pattern Analysis and Machine Intelligence*.
+The VT-MRF-SPF algorithm is an extension of the **VT-MRF-PF** algorithm for scalable spatiotemporal filtering in high-dimensional data. The **VT-MRF-PF** algorithm was proposed by Zia Khan, Tucker Balch, and Frank Dellaert in [MCMC-based Particle Filtering for Tracking a Variable Number of Interacting Targets](https://ieeexplore.ieee.org/abstract/document/1512059), *IEEE Transactions on Pattern Analysis and Machine Intelligence*.
 
-## Core Functionality
+## Core Functions
 
 The implementation includes the following core files and their corresponding functions:
 
