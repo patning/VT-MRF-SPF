@@ -9,7 +9,7 @@ The VT-MRF-SPF algorithm is an extension of the **VT-MRF-PF** algorithm for scal
 This folder includes the following core files and their corresponding functions:
 
 ### 1. `external_functions.py`
-This file contains external functions includes the simulation function.
+This file contains external functions including the simulation function.
 
 ### 2. `VTPF.py`
 This file implements the **VT-MRF-PF** algorithm, which is an online learning algorithm used for tracking a variable number of interacting targets over time.
