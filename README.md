@@ -37,10 +37,10 @@ This file contains experiments for a 50-dimensional HSTMRF-VD model with equal t
 This script is used to check the experiment results.
 
 ### 4. `plot_Gaussian_fullmatrix.py`
-This script generates plots of performance comparison of the VT-MRF-SPF and VT-MRF-PF algorithms across different spatial dimensions.
+This script generates plots comparing the performance of the **VT-MRF-SPF** and **VT-MRF-PF** algorithms across different spatial dimensions.
 
 ### 5. `plot_tracking_Gaussian_eq_50.py`
-This file generates tracking visualizations of the 50 targets using the results from the VT-MRF-SPF and VT-MRF-PF algorithms.
+This file generates tracking visualizations of 50 targets using the results from the **VT-MRF-SPF** and **VT-MRF-PF** algorithms.
 
 ## Getting Started
 
