@@ -6,7 +6,7 @@ The VT-MRF-SPF algorithm is an extension of the **VT-MRF-PF** algorithm for scal
 
 ## Core Functions
 
-The folder includes the following core files and their corresponding functions:
+This folder includes the following core files and their corresponding functions:
 
 ### 1. `external_functions.py`
 This file contains external functions includes the simulation function.
@@ -23,9 +23,9 @@ This script calculates the log-likelihood that is used in the **VT-MRF-PF** algo
 ### 5. `Likelihood_SPF.py`
 This file calculates the log-likelihood that is used in the **VT-MRF-SPF** algorithm.
 
-## Implementation Folder
+## Implementation
 
-The `Implement` folder contains scripts and data used to evaluate and visualize the performance of the algorithms:
+This folder contains scripts and data used to evaluate and visualize the performance of the algorithms:
 
 ### 1. `W.csv`
 This CSV file contains real spatial data.
