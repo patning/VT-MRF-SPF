@@ -6,7 +6,7 @@ The VT-MRF-SPF algorithm is an extension of the **VT-MRF-PF** algorithm for scal
 
 ## Core Functions
 
-The implementation includes the following core files and their corresponding functions:
+The folder includes the following core files and their corresponding functions:
 
 ### 1. `external_functions.py`
 This file contains external functions includes the simulation function.
